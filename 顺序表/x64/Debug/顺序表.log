@@ -1,0 +1,7 @@
+﻿  顺序表.cpp
+F:\Projects\CDemo\MyDataStructure\顺序表\顺序表.cpp(16,2): warning C4091: “typedef ”: 没有声明变量时忽略“SqList”的左侧
+F:\Projects\CDemo\MyDataStructure\顺序表\顺序表.cpp(68,33): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+F:\Projects\CDemo\MyDataStructure\顺序表\顺序表.cpp(79,17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\Projects\CDemo\MyDataStructure\顺序表\顺序表.cpp(79,17): message : 请考虑在格式字符串中使用“%zd”
+F:\Projects\CDemo\MyDataStructure\顺序表\顺序表.cpp(72): warning C4715: “InsertSqList”: 不是所有的控件路径都返回值
+  顺序表.vcxproj -> F:\Projects\CDemo\MyDataStructure\x64\Debug\顺序表.exe
